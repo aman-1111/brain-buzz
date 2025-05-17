@@ -12,7 +12,17 @@ An interactive, responsive quiz application built with [Your Tech Stack] that al
 - 🎨 Clean and modern UI
 
 ---
+## 🚀 Live Demo
 
+[Click here to view the live app](## 🚀 Live Demo
+
+[Click here to view the live app][(https://app.netlify.com/projects/amanchaurasia-quiz-app/overview)]  
+*(Replace with your actual deployment link: GitHub Pages, Vercel, Netlify, etc.)*
+
+---)  
+*(Replace with your actual deployment link: GitHub Pages, Vercel, Netlify, etc.)*
+
+---
 ## 🛠️ Tech Stack
 
 - **Frontend**: [React / Vue / HTML, CSS, JavaScript]
